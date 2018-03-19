@@ -5,16 +5,24 @@ Version 1.0
 
 ## One-Line Install and Run Script.
 To install the script then run in, just use this one liner:
-`git clone https://github.com/elijahcruz12/PHP-7-Installer-for-C9.IO.git && cd PHP-7-Installer-for-C9.IO/ && python c9.io.php.py`
+
+```
+git clone https://github.com/elijahcruz12/PHP-7-Installer-for-C9.IO.git && cd PHP-7-Installer-for-C9.IO/ && python c9.io.php.py
+```
+
 It will clone the script then run it.
 
 ## Installing the Script
 To install the script use this:
-`git clone https://github.com/elijahcruz12/PHP-7-Installer-for-C9.IO.git`
+```
+git clone https://github.com/elijahcruz12/PHP-7-Installer-for-C9.IO.git
+```
 
 ## Running the installer
 To run the installer just enter on your command line:
-`python c9.io.php.py`
+```
+python c9.io.php.py
+```
 
 The script will run for you.
 
