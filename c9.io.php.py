@@ -25,7 +25,7 @@ GR = '\033[37m'  # gray
 installerHead = """
   ___________________
   PHP 7 Installer for c9.io!
-  
+  Script V1.0
   Installer created by Elijah Cruz
   
   Written in Python.
