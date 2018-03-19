@@ -4,7 +4,7 @@ Installs PHP 7 onto your C9 IDE.<br>
 Version 1.0
 
 ## One-Line Install and Run Script.
-To install the script then run in, just use this one liner:
+To install the script then run it, just use this one liner:
 
 ```
 git clone https://github.com/elijahcruz12/PHP-7-Installer-for-C9.IO.git && cd PHP-7-Installer-for-C9.IO/ && python c9.io.php.py
