@@ -1,6 +1,6 @@
 # PHP 7 Installer Script for C9.IO!
-Installs PHP 7 onto your C9 IDE.
---
+
+Installs PHP 7 onto your C9 IDE.<br>
 Version 1.0
 
 ## Installing the Script
