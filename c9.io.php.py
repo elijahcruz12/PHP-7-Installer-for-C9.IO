@@ -63,7 +63,7 @@ print R + "Removing libapache2-mod-php5..."
 sleep(1.5)
 os.system("sudo apt-get remove libapache2-mod-php5 -y")
 
-print GW + "Installing libapache2-mod-php7..."
+print G + "Installing libapache2-mod-php7..."
 sleep(1.5)
 os.system("sudo apt-get install libapache2-mod-php7.0 -y")
 
