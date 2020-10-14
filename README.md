@@ -1,3 +1,9 @@
+# NOTE: C9.IO DOES NOT EXIST ANYMORE, AND AS SUCH, THIS REPO IS NO LONGER MAINTAINED. HOWEVER, THE CODE DOES STILL WORK, AND YOU CAN EDIT THE CODE YOURSELF TO USE ON YOUR OWN SERVERS.
+
+## It is recommended at this point to fork this repo to use it yourself
+
+
+
 # PHP 7 Installer Script for C9.IO!
 
 Installs PHP 7 onto your C9 IDE.<br>
